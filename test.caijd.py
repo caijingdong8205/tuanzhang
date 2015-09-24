@@ -1,0 +1,3 @@
+#!py
+
+printf("Hello World!!");
